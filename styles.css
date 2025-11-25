@@ -12,5 +12,30 @@ header {
 
 nav a {
     color: white;
-    text-decoration: none
+    text-decoration: none;
+}
+
+a:hover {
+  color: pink;
+}
+
+#contenido {
+    padding: 2px;
+}
+
+section h2 {
+    font-size: 25px;
+}
+
+section p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color: purple;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 2px;
 }
