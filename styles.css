@@ -1,0 +1,16 @@
+body {
+    background-color: #B5F4FF;
+}
+
+h1 {
+    font-family: Helvetica;
+}
+
+header {
+    background-color: #007bff;
+}
+
+nav a {
+    color: white;
+    text-decoration: none
+}
